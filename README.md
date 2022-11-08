@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwa-g-pathirana&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=vishwa-g-pathirana&theme=dark)](https://git.io/streak-stats)
 [![GitHub Trends SVG](https://api.githubtrends.io/vishwa-g-pathirana/svg/avgupta456/langs)](https://githubtrends.io)
+[![History](https://codestats-readme.vercel.app/api/history/?username=vishwa-g-pathirana)](https://github.com/aviortheking/codestats-readme)
