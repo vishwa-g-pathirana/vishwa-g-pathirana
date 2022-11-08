@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishwa-g-pathirana&show_icons=true&theme=gruvbox)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwa-g-pathirana&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-https://github-stats-alpha.vercel.app/api?username=vishwa-g-pathirana
+[![GitHub Streak](https://streak-stats.demolab.com/?user=vishwa-g-pathirana&theme=dark)](https://git.io/streak-stats)
