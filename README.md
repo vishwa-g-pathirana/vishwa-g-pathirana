@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=vishwa-g-pathirana&theme=dark)](https://git.io/streak-stats)
 [![GitHub Trends SVG](https://api.githubtrends.io/vishwa-g-pathirana/svg/avgupta456/langs)](https://githubtrends.io)
 [![History](https://codestats-readme.vercel.app/api/history/?vishwa-g-pathirana)](https://github.com/aviortheking/codestats-readme)
+<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwa-g-pathirana&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact"/>
